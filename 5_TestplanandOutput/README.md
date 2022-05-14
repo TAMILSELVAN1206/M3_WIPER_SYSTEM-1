@@ -1,1 +1,23 @@
+## HIGH LEVEL REQUIREMENTS:
 
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|HLR1|STM32 MICROCONTROLLER|IMPLEMENTED|
+|HLR2|LED |IMPLEMENTED|
+|HLR2|PUSH BUTTONS|IMPLEMENTED|
+
+
+## LOW LEVEL REQUIREMENTS:
+
+|RID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|LLR1|STM32 INTERFACING WITH PUSH BUTTONS|IMPLEMENTED|
+|LLR2|PUSH BUTTONS INTERFACING WITH LEDS|IMPLEMENTED|
+
+## OUTPUT:
+
+## RED LED![Red colour](https://user-images.githubusercontent.com/101783839/168415746-09b350d9-d29c-416f-af6a-a625e6524988.png)
+
+## GREEN LED:![Green colour](https://user-images.githubusercontent.com/101783839/168415765-fb8e202e-4d1c-49b3-88d6-67fada53f5dd.png)
+
+## ORANGE LED:![orange led on](https://user-images.githubusercontent.com/101783839/168415782-5f5fad49-968c-48c6-93d0-76d86c0fa159.png)
